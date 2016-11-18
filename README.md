@@ -8,7 +8,7 @@
     - [ ] D
     
 * [046](http://abc046.contest.atcoder.jp/)
-    - [ ] A
-    - [ ] B
-    - [ ] C
+    - [X] A
+    - [X] B
+    - [X] C
     - [ ] D 
